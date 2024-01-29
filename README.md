@@ -21,5 +21,9 @@ This is an improved version of usual TF-IDF code where:
  The TF-IDF scores are calculated based on the filtered document.
  The top words and their TF-IDF scores are printed as before.
 
+You may have to enter the document file location 
+- for example: E:\something\something.txt
+- Two example text files have been given 
+
  For further reading 
  visit: https://stevenloria.com/tf-idf/
