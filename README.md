@@ -26,7 +26,7 @@ This implementation of TF-IDF features improvements such as:
 - Navigate to the directory containing the TF-IDF script.
 - Run the script and follow the prompts to enter the location of the document file.
 
--The script will calculate the TF-IDF scores and display the top words along with their scores.
+The script will calculate the TF-IDF scores and display the top words along with their scores.
 
 ## Examples
 Two example text files have been provided in the repository for testing the TF-IDF algorithm.
