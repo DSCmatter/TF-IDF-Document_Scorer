@@ -12,7 +12,7 @@ Before using this TF-IDF implementation, ensure you have the following packages 
 -nltk
 
 You can install these packages using pip:
-pip install textblob nltk
+'pip install textblob nltk'
 
 ## Improved TF-IDF Implementation
 This implementation of TF-IDF features improvements such as:
@@ -36,6 +36,7 @@ Two example text files have been provided in the repository for testing the TF-I
 
 - text.txt
 - text2.txt
+  
 ## Further Reading
 - For more information on TF-IDF and its applications, visit the following link:
 
