@@ -29,7 +29,7 @@ This implementation of TF-IDF features improvements such as:
 -The script will calculate the TF-IDF scores and display the top words along with their scores.
 
 ## Examples
-- Two example text files have been provided in the repository for testing the TF-IDF algorithm.
+Two example text files have been provided in the repository for testing the TF-IDF algorithm.
 
 - text.txt
 - text2.txt
