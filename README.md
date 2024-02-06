@@ -8,8 +8,8 @@ TF-IDF ('Term frequency, Inverse Document Frequency) is an algorithm or way to s
 ## Prerequisites:
 Before using this TF-IDF implementation, ensure you have the following packages installed:
 
--textblob
--nltk
+- textblob
+- nltk
 
 You can install these packages using pip:
 'pip install textblob nltk'
