@@ -6,10 +6,13 @@ TF-IDF ('Term frequency, Inverse Document Frequency) is an algorithm or way to s
  - But if a word appears in many documents, it's not a unique identifier. Give the word a low score.
 
 ## Prerequisites:
-- You may need to install packages such as:
-- textblob and nltk
-- you can do this typing: pip install textblob on cmd
-- same goes for nltk: pip install nltk
+Before using this TF-IDF implementation, ensure you have the following packages installed:
+
+-textblob
+-nltk
+
+You can install these packages using pip:
+pip install textblob nltk
 
 ## Improved TF-IDF Implementation
 This implementation of TF-IDF features improvements such as:
