@@ -1,5 +1,5 @@
 # TF-IDF
-TF-IDF (Term frequency, Inverse Document Frequency) is an algorithm or way to score the imporatance of words (or 'terms') based on how frequently they appear
+TF-IDF (Term frequency, Inverse Document Frequency) is an algorithm or way to score the importance of words (or 'terms') based on how frequently they appear
 
  which means
  - If a word appears frequently in a document, it's important. Give the word a high score.
